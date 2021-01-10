@@ -1,13 +1,15 @@
 function P_hat = simpleEVD(X, r)
-%   This MATLAB code implements the Simple-EVD algorithm and returns a
-%   basis matrix for the new subspace
-%
-%   Input:
-%   X = emperical covariance data matrix (m x m)
-%   r = target rank of output
-%
-%   Output:
-%   P_hat = basis matrix for output (m x r)
+
+%%%Function to implement the Simple-EVD algorithm and returns a basis
+%%%matrix for the new subspace -- edit these comments before Gitting
+
+%%%                         Inputs                          %%%
+%%%         X - Emperical Covariance data matrix (m X m)    %%%
+%%%         r - Target rank of output                       %%%
+
+%%%                         Outputs                         %%%
+%%%         P_hat - Basis matrix for output (m X r)         %%%
+%Y = (1 / size(X, 2)) * (X * X');
 
 [P_hat, ~] = svds(X, r);
 end
