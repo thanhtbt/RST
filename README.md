@@ -8,6 +8,7 @@ Please contact: letrungthanhtbt@gmail.com
 
 Quick Start: Run the file DEMO_SEP_Main.m
 
+Real video data for testing: https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing 
 
 References: 
 
