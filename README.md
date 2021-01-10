@@ -13,6 +13,8 @@ State-of-the-art algorithms for comparison are:
 + ReProCS: https://github.com/praneethmurthy/ReProCS
 + NORST: https://github.com/praneethmurthy/NORST
 
+Please contact: letrungthanhtbt@gmail.com
+
 References: 
 
 [1] L.T. Thanh, V.D. Nguyen, N. L. Trung and K. Abed-Meraim. “Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee”. IEEE
