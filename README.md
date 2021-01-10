@@ -1,1 +1,18 @@
-# RST
+# RST: Robust Subspace Tracking with Missing Data and Outliers
+
+Author     : LE Trung Thanh
+
+Affiliation: University of Orleans
+
+Please contact: letrungthanhtbt@gmail.com
+
+Quick Start: Run the file DEMO_SEP_Main.m
+
+References: 
+
+[1] L.T. Thanh, V.D. Nguyen, N. L. Trung and K. Abed-Meraim. “Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee”. IEEE
+Trans. Signal Process. (TSP), 2021. (to appear)
+
+[2] L.T. Thanh, V.D Nguyen, N.L. Trung and K. Abed-Meraim. “Robust Subspace Tracking with Missing Data and Outliers via ADMM”. European Signal Process. Conf. (EUSIPCO), 2019
+
+
