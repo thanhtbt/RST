@@ -1,4 +1,4 @@
-# RST: Robust Subspace Tracking with Missing Data and Outliers
+# RST: Robust Subspace Tracking with Missing Data and Outliers: PETRELS-ADMM
 
 Author     : LE Trung Thanh
 
@@ -7,6 +7,7 @@ Affiliation: University of Orleans
 Please contact: letrungthanhtbt@gmail.com
 
 Quick Start: Run the file DEMO_SEP_Main.m
+
 
 References: 
 
