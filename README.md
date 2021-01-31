@@ -1,4 +1,4 @@
-# RST: Robust Subspace Tracking with Missing Data and Outliers: PETRELS-ADMM
+# PETRELS-ADMM: Robust Subspace Tracking with Missing Data and Outliers
 
 Quick Start: Run the file DEMO_SEP_Main.m
 
