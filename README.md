@@ -12,7 +12,7 @@ Run the file DEMO_Video.m for real video dataset
 
 The Lobby data: https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing 
 
-# State-of-the-art algorithms for comparison: 
+# State-of-the-art algorithms for comparison
 + GRASTA: https://sites.google.com/site/hejunzz/grasta
 + ROSETA: http://www.merl.com/research/license#ROSETA
 + ReProCS: https://github.com/praneethmurthy/ReProCS
