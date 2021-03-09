@@ -17,12 +17,14 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 
 ## Some results
 
-
+Similated data: matrix completion and performance comparsion between PETRELS-ADMM and the state-of-the-art RST algorithms
 <p float="left">
   <img src="https://user-images.githubusercontent.com/26319211/110497389-b01e0680-80f6-11eb-870f-88e9b6c65ae4.PNG" width="300" height='250' />
   <img src="https://user-images.githubusercontent.com/26319211/110496361-af38a500-80f5-11eb-84c3-26485bda807c.jpg" width="300" height='250' /> 
-  <img src="https://user-images.githubusercontent.com/26319211/110496363-afd13b80-80f5-11eb-8770-30510d66e271.PNG" width="250" height='250' /> 
 </p>
+
+Video background-foreground separation application
+<img src="https://user-images.githubusercontent.com/26319211/110496363-afd13b80-80f5-11eb-8770-30510d66e271.PNG" width="250" height='250'>
 
 
 ## References
