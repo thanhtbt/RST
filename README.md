@@ -5,9 +5,9 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 
 ## DEMO
 
-Run the file DEMO_SEP_Main.m for similated data
++ Run the file DEMO_SEP_Main.m for similated data
 
-Run the file DEMO_Video.m for real video data(e.g. [Lobby dataset](https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing))
++ Run the file DEMO_Video.m for real data: The Lobby video data can be downloaded [here](https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing).
 
 ## State-of-the-art algorithms for comparison
 + GRASTA: https://sites.google.com/site/hejunzz/grasta
