@@ -30,10 +30,5 @@ addpath(genpath(pwd));
 cd ..;
 
 
-cd Data_VideoStream/;
-addpath(genpath(pwd));
-cd ..;
 
-
-% 
 
