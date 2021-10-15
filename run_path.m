@@ -7,7 +7,7 @@ addpath(genpath(pwd));
 cd ..;
 
 
-cd PETRELS_ADMM/;
+cd Algorithms/;
 addpath(genpath(pwd));
 cd ..;
 
