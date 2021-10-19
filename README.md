@@ -3,7 +3,9 @@
 We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking in the presence of outliers and missing data. The proposed approach consists of two main stages: outlier rejection and subspace estimation. Particularly, we first use ADMM solver for detecting outliers living in the measurement data in an efficient online way and then improve the well-known PETRELS algorithm to update the underlying subspace in the missing data context.
 
 ## Updates:
-16/10/2021: Reorganize the entire repository.
++ Jan 2021: Create this repository.
+
++ Oct 16th 2021: Reorganize the entire repository.
 
 ## DEMO
 
