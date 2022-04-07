@@ -26,6 +26,9 @@ function [U_est,PER,U_Var] = PETRELS_ADMM(X,U_tr,OPTS)
 %% Initializations
 
 if isfield(OPTS,'lambda'), % Forgetting factor
+     % 4/7/2022: Thanh noted: 
+     % In time-varying environments, the value of lambda should be smaller than 1 (e.g., lambda <= 0.99). 
+     % The faster the time varitiona of subspace is, the smaller the value of lambda should be.
      lambda = OPTS.lambda;
 else lambda = 0.9999;
 end
