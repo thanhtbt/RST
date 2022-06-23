@@ -29,7 +29,7 @@ Similated data:
 
 Video background-foreground separation application
 
-<img src="https://user-images.githubusercontent.com/26319211/110496363-afd13b80-80f5-11eb-8770-30510d66e271.PNG" width="700" height='550'>
+<img src="https://user-images.githubusercontent.com/26319211/110496363-afd13b80-80f5-11eb-8770-30510d66e271.PNG" width="700" height='450'>
 
 
 ## References
