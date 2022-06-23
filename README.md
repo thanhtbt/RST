@@ -23,11 +23,11 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 
 ## Some results
 
-Similated data:  
++ Synthetic data
 
 ![untitled](https://user-images.githubusercontent.com/26319211/175233846-5d1a564a-9057-498c-9b10-66d4469578e6.jpg)
 
-Video background-foreground separation application
++ Video background-foreground separation application
 
 <img src="https://user-images.githubusercontent.com/26319211/110496363-afd13b80-80f5-11eb-8770-30510d66e271.PNG" width="700" height='450'>
 
