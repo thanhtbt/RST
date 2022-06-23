@@ -13,7 +13,7 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 
 + Run "DEMO_SEP_Main.m" (Mathlab R201x) or "DEMO_SEP_Main_Synthetic.m" (Mathlab R202x) for synthetic data .
 
-+ Run "DEMO_Video.m" for real data: Video data can be downloaded from the Release or [here](https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing).
++ Run "DEMO_Video.m" for real data: Video data can be downloaded from Releases or [here](https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing).
 
 ## State-of-the-art algorithms for comparison
 + GRASTA: https://sites.google.com/site/hejunzz/grasta
