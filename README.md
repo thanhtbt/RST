@@ -5,11 +5,13 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 ## Updates:
 + Jan 2021: Create this repository.
 
-+ Oct 16th 2021: Reorganize the entire repository.
++ Oct 2021: Reorganize the entire repository.
+
++ Jun 2022: Add a demo DEMO_SEP_Main_Synthetic.m (avoids the warning message from MATLAB 202x caused by ReProCS and NORST)
 
 ## DEMO
 
-+ Run "DEMO_SEP_Main.m" for synthetic data.
++ Run "DEMO_SEP_Main.m" (Mathlab R201x) or "DEMO_SEP_Main_Synthetic.m" (Mathlab R202x) for synthetic data .
 
 + Run "DEMO_Video.m" for real data: Video data can be downloaded from the Release or [here](https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing).
 
@@ -21,15 +23,13 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 
 ## Some results
 
-Similated data: matrix completion and performance comparsion between PETRELS-ADMM and the state-of-the-art RST algorithms
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/26319211/110497389-b01e0680-80f6-11eb-870f-88e9b6c65ae4.PNG" width="300" height='250' />
-  <img src="https://user-images.githubusercontent.com/26319211/110496361-af38a500-80f5-11eb-84c3-26485bda807c.jpg" width="300" height='250' /> 
-</p>
+Similated data:  
+
+![untitled](https://user-images.githubusercontent.com/26319211/175233846-5d1a564a-9057-498c-9b10-66d4469578e6.jpg)
 
 Video background-foreground separation application
 
-<img src="https://user-images.githubusercontent.com/26319211/110496363-afd13b80-80f5-11eb-8770-30510d66e271.PNG" width="300" height='250'>
+<img src="https://user-images.githubusercontent.com/26319211/110496363-afd13b80-80f5-11eb-8770-30510d66e271.PNG" width="700" height='550'>
 
 
 ## References
