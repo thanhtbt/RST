@@ -4,15 +4,12 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 
 ## Updates:
 + Jan 2021: Create this repository.
-
 + Oct 2021: Reorganize the entire repository.
-
 + Jun 2022: Add a demo DEMO_SEP_Main_Synthetic.m (avoids the warning message from MATLAB R202x caused by ReProCS and NORST)
 
 ## DEMO
 
-+ Run "DEMO_SEP_Main.m" (MATLAB R201x) or "DEMO_SEP_Main_Synthetic.m" (MATLAB R202x) for synthetic data .
-
++ Run "DEMO_SEP_Main.m" (MATLAB R201x) or "DEMO_SEP_Main_Synthetic.m" (MATLAB R202x) for synthetic data.
 + Run "DEMO_Video.m" for real data: Video data can be downloaded from Releases or [here](https://drive.google.com/drive/folders/11a_TgkJAyw7PvF-lz9RuUW_SHeMk_F1H?usp=sharing).
 
 ## State-of-the-art algorithms for comparison
@@ -36,7 +33,7 @@ We propose a novel algorithm called PETRELS-ADMM to deal with subspace tracking 
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following papers.
 
-[1] L.T. Thanh, V.D. Nguyen, N. L. Trung and K. Abed-Meraim. “[*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*](https://drive.google.com/file/d/1MIFmZlQyx1L3lUZ5QGz6ARWVPD4eBYgF/view?usp=sharing)”. **IEEE Trans. Signal Process., 69:2070–2085, 2021**. [[DOI](https://ieeexplore.ieee.org/document/9381678)],[[PDF](https://drive.google.com/file/d/1MIFmZlQyx1L3lUZ5QGz6ARWVPD4eBYgF/view?usp=sharing)].
+[1] L.T. Thanh, V.D. Nguyen, N. L. Trung and K. Abed-Meraim. “[*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*](https://drive.google.com/file/d/1MIFmZlQyx1L3lUZ5QGz6ARWVPD4eBYgF/view?usp=sharing)”. **IEEE Trans. Signal Process., 2021**. [[DOI](https://ieeexplore.ieee.org/document/9381678)],[[PDF](https://drive.google.com/file/d/1MIFmZlQyx1L3lUZ5QGz6ARWVPD4eBYgF/view?usp=sharing)].
 
-[2] L.T. Thanh, V.D Nguyen, N.L. Trung and K. Abed-Meraim. “[*Robust Subspace Tracking with Missing Data and Outliers via ADMM*](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view?usp=sharing)”. **27th European Signal Process. Conf. (EUSIPCO), 1-5,2019**. [[DOI]( https://ieeexplore.ieee.org/document/8903031)],[[PDF](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view?usp=sharing)].
+[2] L.T. Thanh, V.D Nguyen, N.L. Trung and K. Abed-Meraim. “[*Robust Subspace Tracking with Missing Data and Outliers via ADMM*](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view?usp=sharing)”. **Proc. 27th EUSIPCO, 2019**. [[DOI]( https://ieeexplore.ieee.org/document/8903031)],[[PDF](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view?usp=sharing)].
 
